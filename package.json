@@ -1,0 +1,46 @@
+{
+  "name": "node-with-sequelize",
+  "version": "1.0.0",
+  "description": "A sample node app with sequelize",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharathVaddireddy/node-with-sequelize.git"
+  },
+  "dependencies": {
+    "add-subtract-date": "^1.0.14",
+    "bcryptjs": "2.4.3",
+    "body-parser": "1.17.2",
+    "connect-multiparty": "2.1.0",
+    "cors": "2.8.3",
+    "date-diff": "0.2.1",
+    "express": "4.15.3",
+    "fs-extra": "7.0.1",
+    "jsonwebtoken": "7.4.1",
+    "lodash": "4.17.10",
+    "method-override": "2.3.10",
+    "mssql": "4.3.1",
+    "multiparty": "4.1.4",
+    "next-day": "^1.1.0",
+    "node-tesseract-ocr": "^0.1.0",
+    "passport": "0.3.2",
+    "passport-jwt": "2.2.1",
+    "say": "0.15.0",
+    "sequelize": "4.42.0",
+    "sequelize-auto": "0.4.29",
+    "shortid": "2.2.8",
+    "tedious": "5.0.3",
+    "xlsx-to-json-lc": "0.5.0",
+    "xml2js": "^0.4.19"
+  },
+  "author": "Shrath Vaddireddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharathVaddireddy/node-with-sequelize/issues"
+  },
+  "homepage": "https://github.com/SharathVaddireddy/node-with-sequelize#readme"
+}
